@@ -38,8 +38,6 @@ The **Attention U-Net** architecture improves standard U-Net by introducing atte
 ## 📊 **Results & Visualizations**
 The model produces accurate segmentation of blood vessels. Sample results:
 
-(change stuff here)
-
 | Input Image | Ground Truth | Prediction |
 |------------|--------------|-----------|
 | ![Input](Examples/input1.png) | ![GT](Examples/ground_truth1.png) | ![Pred](Examples/prediction1.png) |
