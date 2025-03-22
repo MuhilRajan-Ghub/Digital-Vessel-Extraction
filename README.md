@@ -53,7 +53,6 @@ The model produces accurate segmentation of blood vessels. Sample results:
 ## 🔗 **References**
 - **[Attention U-Net Paper](https://arxiv.org/pdf/1804.03999.pdf)**
 - **[DRIVE Dataset](https://drive.grand-challenge.org/)**
-- **[Hong Jing's Tutorial](https://towardsdatascience.com/biomedical-image-segmentation-attention-u-net-29b6f0827405)**
 
 ---
 Feel free to contribute by submitting pull requests or opening issues! 🚀
