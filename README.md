@@ -21,18 +21,11 @@ The **Attention U-Net** architecture improves standard U-Net by introducing atte
 - **Reduced false positives**
 - **Improved focus on small vessels**
 
-
-(change stuff here)
-
 ## 🏗 **Project Structure**
 ```
-├── notebook.ipynb       # Jupyter Notebook (Full project walkthrough & visualization)
-├── main.py              # Model implementation (Attention U-Net)
-├── utils.py             # Helper functions
-├── train.py             # Training script
-├── loss.py              # Evaluation script
-├── dataset.py           # Dataset Loading 
-└── README.md            # Project documentation
+├── UNet_With_Attention.ipynb    # Jupyter Notebook (Full project walkthrough & visualization)
+├── Examples                     # Contains Image Samples of Input, Ground Truth & Prediction
+└── README.md                    # Project documentation
 ```
 
 ## 📊 **Results & Visualizations**
