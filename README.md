@@ -42,7 +42,10 @@ The model produces accurate segmentation of blood vessels. Sample results:
 
 | Input Image | Ground Truth | Prediction |
 |------------|--------------|-----------|
-| ![Input](examples/input.png) | ![GT](examples/ground_truth.png) | ![Pred](examples/prediction.png) |
+| ![Input](Examples/input1.png) | ![GT](Examples/ground_truth1.png) | ![Pred](Examples/prediction1.png) |
+| ![Input](Examples/input2.png) | ![GT](Examples/ground_truth2.png) | ![Pred](Examples/prediction2.png) |
+| ![Input](Examples/input3.png) | ![GT](Examples/ground_truth3.png) | ![Pred](Examples/prediction3.png) |
+| ![Input](Examples/input4.png) | ![GT](Examples/ground_truth4.png) | ![Pred](Examples/prediction4.png) |
 
 ## 🔬 **Key Features**
 ✅ **Attention Mechanism**: Focuses on important regions in the image.
