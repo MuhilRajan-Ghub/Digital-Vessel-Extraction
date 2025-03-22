@@ -48,10 +48,10 @@ The model produces accurate segmentation of blood vessels. Sample results:
 | ![Input](Examples/input4.png) | ![GT](Examples/ground_truth4.png) | ![Pred](Examples/prediction4.png) |
 
 ## 🔬 **Key Features**
-✅ **Attention Mechanism**: Focuses on important regions in the image.
-✅ **Dice Loss & Focal Loss**: Handles class imbalance effectively.
-✅ **Data Augmentation**: Improves model generalization.
-✅ **PyTorch Dataset Class**: Efficient data loading & preprocessing.
+✅ **Attention Mechanism**: Focuses on important regions in the image.  
+✅ **Dice Loss & Focal Loss**: Handles class imbalance effectively.  
+✅ **Data Augmentation**: Improves model generalization.  
+✅ **PyTorch Dataset Class**: Efficient data loading & preprocessing.  
 
 ## 🔗 **References**
 - **[Attention U-Net Paper](https://arxiv.org/pdf/1804.03999.pdf)**
